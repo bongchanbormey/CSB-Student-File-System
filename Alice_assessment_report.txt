@@ -1,0 +1,29 @@
+
+
+School Assessment Summary Report:
+====================================
+Student name: Alice
+Student ID: 104
+Enroll in: Summer
+
+1. Overall Performance:
+   - Average score: 87.8
+   - Overall Grade: B
+2. Subject-wise Analysis:
+   + Subject grades:
+   - INF 652: Score: 79, Grade: C
+   - CSC 241: Score: 91, Grade: A
+   - ITM 101: Score: 84, Grade: B
+   - ITM 371: Score: 88, Grade: B
+   - COSC 201: Score: 97, Grade: A
+   * COSC 201: Highest scoring subject of 97.
+   * INF 652: Lowest scoring subject of 79.
+3. Notable Observations:
+   - COSC 201 course shows a great accomplishment.
+4. Web Data Insights:
+   - Student email: myschool@gmail.com
+   - Online class participation duration: 40 minutes
+5. Recommendations:
+   - Try to improve your performance in INF 652 course.
+
+Report generated on: 2024-08-28
